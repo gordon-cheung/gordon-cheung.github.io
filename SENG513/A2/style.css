@@ -22,6 +22,7 @@ body {
 }
 
 #input-expression {
+  min-height:18px;
   text-align:right;
   color:#696969;
   font-size:12px;
